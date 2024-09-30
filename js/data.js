@@ -14,7 +14,7 @@ let flowers = [
     },
     {
         name: "Gerbera",
-        image: "img/gerbera-7715379_640.jpg",
+        image: "gerbera-7715379_640.jpg",
         price: 14,
         amount: 1
     },
